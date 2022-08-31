@@ -67,7 +67,8 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
     project -> 
     
-      set program’s arguments: ./modules/paramFiles/parameters_ARRAY.txt
+      set program’s arguments: ./modules/paramFiles/const_PARAMETERS.txt
+      set program’s arguments: ./modules/paramFiles/vary_PARAMETERS.txt
       build options -> search directories -> compiler -> add -> modules/cppFiles 
       build options -> search directories -> compiler -> add -> modules/headFiles
       build options -> linker settings -> add -> boost_system
@@ -132,7 +133,8 @@ Testing and contributing is very welcome, especially if you can contribute with 
        
     project -> 
     
-      set program’s arguments: ./modules/paramFiles/parameters_ARRAY.txt
+      set program’s arguments: ./modules/paramFiles/const_PARAMETERS.txt
+      set program’s arguments: ./modules/paramFiles/vary_PARAMETERS.txt
       build options -> search directories -> compiler -> add -> modules/cppFiles 
       build options -> search directories -> compiler -> add -> modules/headFiles
       build options -> linker settings -> add -> boost_system
