@@ -3,7 +3,7 @@
 ![alt text](https://github.com/HiBandan/vertexModel/blob/main/logo/vertexModel-2.0.png)
 
 
-This is a program for simulating cortical microtubule dynamics (CMT) on experimentally extracted microscopic images of cell 
+This is a program for simulating emergence of tissue flow and deformation using vertex model, where experimentally aquired cell shapes are approximated by polygons. 
 
 Application: in progress
 
