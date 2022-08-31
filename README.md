@@ -1,4 +1,4 @@
 # vertexModel
 
-![alt text](https://github.com/HiBandan/modelCMT/blob/main/logo/logomodelCMT-3.0.png)
+![alt text](https://github.com/HiBandan/vertexModel/blob/main/logo/vertexModel-1.0.png)
 
