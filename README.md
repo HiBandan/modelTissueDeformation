@@ -56,7 +56,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
     open (with Code::Blocks): vertexModelStatic_WINDOWS.cbp
   
     Projects -> modelCMT.cbp -> add files
-        -> modules/cppFiles (all files except 'inline.cpp')
+        -> modules/cppFiles (all files)
         -> modules/headFiles (all files)
         -> modules/paramFiles (all files)
         
@@ -122,7 +122,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
     open (with code-block): vertexModelStatic_LINUX.cbp
     
     Projects -> modelCMT.cbp -> add files
-      -> modules/cppFiles (all files except 'inline.cpp')
+      -> modules/cppFiles (all files)
       -> modules/headFiles (all files)
       -> modules/paramFiles (all files)
   
