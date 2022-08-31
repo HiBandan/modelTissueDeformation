@@ -1,6 +1,6 @@
 # vertexModel
 
-![alt text](https://github.com/HiBandan/modelCMT/blob/main/logo/logomodelCMT-3.0.png)
+![alt text](https://github.com/HiBandan/vertexModel/blob/main/logo/vertexModel-2.0.png)
 
 
 This is a program for simulating cortical microtubule dynamics (CMT) on experimentally extracted microscopic images of cell 
