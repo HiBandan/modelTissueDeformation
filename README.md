@@ -81,6 +81,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
   ### install gcc/g++ 
   
+       sudo apt update
        sudo apt install build-essential
 
   ### install eigen:
