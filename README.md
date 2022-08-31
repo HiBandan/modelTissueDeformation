@@ -53,7 +53,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
     
   ### run 
   
-    open (with Code::Blocks): modelCMT_WINDOWS.cbp
+    open (with Code::Blocks): vertexModelStatic_WINDOWS.cbp
   
     Projects -> modelCMT.cbp -> add files
         -> modules/cppFiles (all files except 'inline.cpp')
@@ -118,7 +118,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
  
   ### run 
 
-    open (with code-block): modelCMT_LINUX.cbp
+    open (with code-block): vertexModelStatic_LINUX.cbp
     
     Projects -> modelCMT.cbp -> add files
       -> modules/cppFiles (all files except 'inline.cpp')
