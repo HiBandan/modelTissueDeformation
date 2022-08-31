@@ -1,6 +1,6 @@
 # vertexModel
 
-![alt text](https://github.com/HiBandan/vertexModel/blob/main/logo/vertexModel-2.0.png)
+![alt text](https://github.com/HiBandan/vertexModel-Static/blob/main/logo/vertexModel-3.0.png)
 
 
 This is a program for simulating emergence of tissue flow and deformation using 2D-vertex model, where experimentally aquired cell shape from the sagittal section of an animal is approximated by polygons. 
