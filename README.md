@@ -46,7 +46,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
   Option 2: Clone from terminal: 
   
-    git clone https://github.com/HiBandan/modelCMT.git
+    git clone https://github.com/HiBandan/vertexModel-Static.git
 
   ### install Code::Blocks: 
   https://code-blocks.en.uptodown.com/windows
@@ -106,7 +106,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
   Option 2: Clone from terminal: 
   
-    git clone https://github.com/HiBandan/modelCMT.git
+    git clone https://github.com/HiBandan/vertexModel-Static.git
     
   ### install Code::Blocks: 
   
