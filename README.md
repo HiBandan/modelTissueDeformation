@@ -41,7 +41,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
   
   ### get the source code
   
-  Option 1: Download the package from the Github: https://github.com/HiBandan/vertexModel-Static/archive/refs/heads/main.zip
+  Option 1: Download the package from the Github: https://github.com/HiBandan/modelTissueDeformation/archive/refs/heads/main.zip
 
 
   Option 2: Clone from terminal: 
@@ -102,7 +102,7 @@ Testing and contributing is very welcome, especially if you can contribute with 
 
   ### get the source code
   
-  Option 1: Download the package from the Github: https://github.com/HiBandan/vertexModel-Static/archive/refs/heads/main.zip
+  Option 1: Download the package from the Github: https://github.com/HiBandan/modelTissueDeformation/archive/refs/heads/main.zip
 
   Option 2: Clone from terminal: 
   
