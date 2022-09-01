@@ -53,9 +53,9 @@ Testing and contributing is very welcome, especially if you can contribute with 
     
   ### run 
   
-    open (with Code::Blocks): vertexModelStatic_WINDOWS.cbp
+    open (with Code::Blocks): modelTD_WINDOWS.cbp
   
-    Projects -> vertexModelStatic_WINDOWS.cbp -> add files
+    Projects -> modelTD_WINDOWS.cbp -> add files
         -> modules/cppFiles (all files)
         -> modules/headFiles (all files)
         -> modules/paramFiles (all files)
@@ -118,9 +118,9 @@ Testing and contributing is very welcome, especially if you can contribute with 
  
   ### run 
 
-    open (with code-block): vertexModelStatic_LINUX.cbp
+    open (with code-block): modelTD_LINUX.cbp
     
-    Projects -> vertexModelStatic_LINUX.cbp -> add files
+    Projects -> modelTD_LINUX.cbp -> add files
       -> modules/cppFiles (all files)
       -> modules/headFiles (all files)
       -> modules/paramFiles (all files)
