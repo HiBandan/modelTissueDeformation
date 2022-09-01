@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="vertexModelStatic" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/vertexModelStatic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="./modules/paramFiles/const_PARAMETERS.txt   ./modules/paramFiles/vary_PARAMETERS.txt " />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/vertexModelStatic" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option parameters="./modules/paramFiles/const_PARAMETERS  ./modules/paramFiles/vary_PARAMETERS " />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="modules/cpFiles" />
+			<Add directory="modules/headFiles" />
+			<Add directory="modules/paramFiles" />
+		</Compiler>
+		<Linker>
+			<Add library="libboost_filesystem" />
+			<Add library="boost_system" />
+			<Add library="boost_filesystem" />
+		</Linker>
+		<Unit filename="modules/cpFiles/CgMinimizerSearchDirectionUpdates.cpp" />
+		<Unit filename="modules/cpFiles/IO-analysis.cpp" />
+		<Unit filename="modules/cpFiles/algebra.cpp" />
+		<Unit filename="modules/cpFiles/geometry.cpp" />
+		<Unit filename="modules/cpFiles/main.cpp" />
+		<Unit filename="modules/cpFiles/parameters.cpp" />
+		<Unit filename="modules/cpFiles/switches.cpp" />
+		<Unit filename="modules/cpFiles/system.cpp" />
+		<Unit filename="modules/headFiles/CgMinimizer-inline.h" />
+		<Unit filename="modules/headFiles/CgMinimizer.h" />
+		<Unit filename="modules/headFiles/CgMinimizerSearchDirectionUpdates.h" />
+		<Unit filename="modules/headFiles/LmDerivativeNewton.h" />
+		<Unit filename="modules/headFiles/MersenneTwister.h" />
+		<Unit filename="modules/headFiles/MinimizerWithDerivative.h" />
+		<Unit filename="modules/headFiles/algebra.h" />
+		<Unit filename="modules/headFiles/drosoSymBreak.h" />
+		<Unit filename="modules/paramFiles/const_PARAMETERS.txt" />
+		<Unit filename="modules/paramFiles/vary_PARAMETERS.txt" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
