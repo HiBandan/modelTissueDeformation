@@ -110,11 +110,11 @@ Testing and contributing is very welcome, especially if you can contribute with 
     
   ### install Code::Blocks: 
   
-  sudo add-apt-repository ppa:damien-moore/codeblocks-stable
+    sudo add-apt-repository ppa:damien-moore/codeblocks-stable
 
-  sudo apt update
+    sudo apt update
 
-  sudo apt install codeblocks codeblocks-contrib
+    sudo apt install codeblocks codeblocks-contrib
  
   ### run 
 
